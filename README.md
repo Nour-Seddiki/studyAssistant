@@ -1,1 +1,1 @@
-# My FastAPI Project
+# studyAssistant
